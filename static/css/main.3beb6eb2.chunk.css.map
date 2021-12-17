@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/Table.css"],"names":[],"mappings":"AAAA,kBACI,WAAY,CACZ,iBAAkB,CAClB,eAAgB,CAChB,cAAe,CACf,UACJ","file":"main.3beb6eb2.chunk.css","sourcesContent":[".table-delete-btn {\r\n    border: none;\r\n    border-radius: 5px;\r\n    padding: 5px 8px;\r\n    background: red;\r\n    color: white;\r\n}"]}
